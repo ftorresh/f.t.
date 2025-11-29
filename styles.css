@@ -148,7 +148,7 @@
   border-radius: 5px;
   box-sizing: border-box;
 }
-.lista-checkbox;
+.lista-checkbox,
 .lista-radio {
   list-style: none;
   padding: 10px;
